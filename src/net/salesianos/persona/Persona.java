@@ -14,4 +14,7 @@ public class Persona {
     public String getNombre() {
         return nombre;
     }
+    public String getApellidos() {
+        return apellidos;
+    }
 }
